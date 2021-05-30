@@ -7,3 +7,6 @@ Libraries used:
 - React
 - Semantic UI
 - JSONPlaceholder for fake APIs
+
+##Screenshots:
+![Alt text](public/React-App.png?raw=true "React app")
